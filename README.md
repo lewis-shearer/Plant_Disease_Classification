@@ -52,4 +52,4 @@ The notebook downloads the dataset with `kagglehub` and writes the subsample int
 - Training accuracy (0.997) is well above validation accuracy (0.950), so the head is starting to overfit by epoch 8.
 - The classes are not balanced: potato healthy has only 22 test images.
 
-This was written by AI for learning practice.
+
